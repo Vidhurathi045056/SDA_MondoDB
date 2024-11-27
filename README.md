@@ -1,4 +1,6 @@
-# SDA_MondoDB
+# Violence Dataset in US
+
+Dataset sourced from Kaggle.com (https://www.kaggle.com/datasets/whisperingkahuna/gunviolence1)
 
 Introduction
 
