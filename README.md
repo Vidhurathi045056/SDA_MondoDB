@@ -14,7 +14,7 @@ The heatmap visualizes the distribution and intensity of incidents across North 
 ### **Inference**
 The southeastern United States emerges as the hotspot for incidents with the highest fatality rates, as indicated by the intense red zone, representing over 150 victims killed. Surrounding areas in the U.S. show moderate densities, marked by yellow and green zones, with casualty numbers between 50 and 100. The density of incidents diminishes significantly as we move towards Mexico and Canada, where fatalities are minimal (<50), shown by blue regions. This highlights the southeastern U.S. as the region with the most severe and frequent fatal incidents.
 
-![Heatmap](https://drive.google.com/drive/folders/1RhnqNFEP0IjhsYP-ht54myhSycBdse5c)
+![Heatmap](https://drive.google.com/uc?id=1iGeNJuKp9BBFBqPzMhvzBG0AFfCTmK42)
 
 ---
 
